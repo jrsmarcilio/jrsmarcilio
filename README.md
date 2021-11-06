@@ -32,6 +32,5 @@
 [<img style="margin-right: 10px;" src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='24'>](https://www.linkedin.com/in/jrsmarcilio)
 
 <br>
-<hr/>
 
 ## “The only way to go fast, is to go well.” ― Robert C. Martin, Clean Architecture
