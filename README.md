@@ -6,11 +6,9 @@
 
 #### Experience with NodeJS / Java / Docker / Cloud (AWS / Google)
 
-#
 
 [<img style="margin-right: 10px;" style="margin-right: 10px;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='24'>](https://github.com/jrsmarcilio) [<img style="margin-right: 10px;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='24'>](https://twitter.com/jrsmarcilio) [<img style="margin-right: 10px;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='24'>](https://stackoverflow.com/users/17101846/jrsmarcilio) [<img style="margin-right: 10px;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/jrsmarcilio)
 
-#
 
 📈 **My GitHub Stats:**
 
