@@ -4,7 +4,7 @@
 
 <br>
 <br>
-
+<center>
 <img align="center" alt="Icon SVG Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Icon SVG Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Icon SVG React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -13,9 +13,9 @@
   <img align="center" alt="Icon SVG Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="Icon SVG Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
  <img align="center" alt="Icon SVG Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-
- <br>
- <br>
+</center>
+<br>
+<br>
 
   <a href="https://github.com/jrsmarcilio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrsmarcilio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
