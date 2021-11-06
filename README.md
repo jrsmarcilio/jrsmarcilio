@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Marcílio Júnior
 
-### I am A Dev Front-End (React) and student of Systems Analysis and Development at IFPE
+### I am a Dev Front-End (React) and student of Systems Analysis and Development at IFPE
 
 <br>
 <br>
