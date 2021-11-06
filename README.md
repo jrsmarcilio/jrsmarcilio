@@ -4,25 +4,27 @@
 
 <br>
 <br>
-<center>
-<img align="center" alt="Icon SVG Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+<div>
+  <img align="center" alt="Icon SVG Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Icon SVG Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Icon SVG React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Icon SVG NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Icon SVG NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Icon SVG Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="Icon SVG Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
- <img align="center" alt="Icon SVG Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-</center>
+  <img align="center" alt="Icon SVG Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Icon SVG Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+</div>
+  
 <br>
 <br>
 
-  <a href="https://github.com/jrsmarcilio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrsmarcilio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrsmarcilio&layout=compact&langs_count=7&theme=dark"/>
+<a href="https://github.com/jrsmarcilio">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrsmarcilio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrsmarcilio&layout=compact&langs_count=7&theme=dark"/>
 
- <br>
- <br>
+<br>
+<br>
 
 [<img style="margin-right: 10px;" style="margin-right: 10px;" src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='24'>](https://github.com/jrsmarcilio)
 [<img style="margin-right: 10px;" src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='24'>](https://twitter.com/jrsmarcilio)
@@ -32,4 +34,4 @@
 <br>
 <hr/>
 
-# “The only way to go fast, is to go well.” ― Robert C. Martin, Clean Architecture
+## “The only way to go fast, is to go well.” ― Robert C. Martin, Clean Architecture
