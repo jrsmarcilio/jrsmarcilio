@@ -7,7 +7,10 @@
 #### Experience with NodeJS / Java / Docker / Cloud (AWS / Google)
 
 
-[<img style="margin-right: 10px;" style="margin-right: 10px;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='24'>](https://github.com/jrsmarcilio) [<img style="margin-right: 10px;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='24'>](https://twitter.com/jrsmarcilio) [<img style="margin-right: 10px;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='24'>](https://stackoverflow.com/users/17101846/jrsmarcilio) [<img style="margin-right: 10px;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/jrsmarcilio)
+[<img style="margin-right: 10px;" style="margin-right: 10px;" src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='24'>](https://github.com/jrsmarcilio)
+[<img style="margin-right: 10px;" src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='24'>](https://twitter.com/jrsmarcilio)
+[<img style="margin-right: 10px;" src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white' alt='stackoverflow' height='24'>](https://stackoverflow.com/users/17101846/jrsmarcilio)
+[<img style="margin-right: 10px;" src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='24'>](https://www.linkedin.com/in/jrsmarcilio)
 
 
 📈 **My GitHub Stats:**
