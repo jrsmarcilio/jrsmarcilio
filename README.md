@@ -30,6 +30,7 @@
 [<img style="margin-right: 10px;" src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='24'>](https://twitter.com/jrsmarcilio)
 [<img style="margin-right: 10px;" src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white' alt='stackoverflow' height='24'>](https://stackoverflow.com/users/17101846/jrsmarcilio)
 [<img style="margin-right: 10px;" src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='24'>](https://www.linkedin.com/in/jrsmarcilio)
+[<img src="https://img.shields.io/badge/qwiklabs-%23F5CD0E.svg?&style=for-the-badge&logo=qwiklabs&logoColor=black" alt="qwiklabs" height='24' />](https://www.qwiklabs.com/public_profiles/1795104e-8b73-4670-a2a6-cacdc30ca87d)
 
 <br>
 
