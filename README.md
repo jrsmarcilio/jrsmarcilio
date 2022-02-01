@@ -34,4 +34,4 @@
 
 <br>
 
-## “The only way to go fast, is to go well.” ― Robert C. Martin, Clean Architecture
+## “Falar é fácil. Mostre-me o código.” ― Linus Torvalds
