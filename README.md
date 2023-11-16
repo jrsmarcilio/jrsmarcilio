@@ -6,7 +6,7 @@ Software Developer II na Ustore <a href="https://www.linkedin.com/company/ustore
 
 <hr />
 
-Sou desenvolvedor full-stack, apaixonado por TypeScript e código aberto. :anchor:
+Sou desenvolvedor backend, apaixonado por TypeScript e código aberto. :anchor:
 
 Atualmente trabalho com AdonisJS e Angular, e nas horas vagas gosto de programar com:
 * Next.JS
